@@ -1,0 +1,9 @@
+{
+	"name": "powerbanksa",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f1a36060-a584-44d0-a58c-c1b78816df59",
+		"tenantId": "42573648-a937-4896-b96a-0e7771670890"
+	}
+}
